@@ -11,3 +11,6 @@
 詳しい説明は以下のリンクを参照してください：  
 https://next-sfa.jp/journal/skill/criticalpath/  
 https://asana.com/ja/resources/critical-path-method  
+
+2023.11.05
+ローカルデータベースをAmazon RDS for MySQLに遷移しました。
